@@ -1,0 +1,30 @@
+1. problem statement
+
+1. Fabrikam is a multinational Company having 24 offices all over world.
+2. Company wanted to host Information Management solution in web.
+3.Fabrikam want host internet public web site so their  customers know about product with online experience.
+4.Company required internet so all employee access feedback management system and leave managment system related information of company.
+5.Fabrikam has a Amazon Webservices cloud scripting.
+6. company want to use this wb service as infrastucture as a service.
+7.comany main reqirement is to bulid  and host information system in public.
+8.By using google cloud plateform or Aws palteform.
+
+
+
+2. Funtional Requirement -
+
+1. The software automatically validates customers against the Information  Management System.
+2. The system should matain web site for customers.
+3. Only  have the right to all employee acess feedback and leave managment system.
+4. The software system should be integrated with AWS or Google cloud palteform.
+
+
+3. Non-Functional Requirement
+
+1. Users must change the initially assigned login password immediately after the first successful login.
+2. Employees never allowed to update their  information. Such attempt should be reported to the security administrator.
+3. Every unsuccessful attempt by a user to access an item of data shall be recorded.
+4. A website should be capable enough to handle lots of  users with affecting its performance.
+5. The software should be portable, So moving from one OS to other OS does not create any problem.
+6. Privacy of information, the export of restricted technologies, intellectual property rights, etc. should be audited.
+
